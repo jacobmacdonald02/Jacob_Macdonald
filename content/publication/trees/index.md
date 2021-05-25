@@ -41,7 +41,7 @@ url_dataset: ""
 url_pdf: "https://www.econstor.eu/bitstream/10419/174668/1/Paper0640_JacobMacdonald.pdf"
 url_poster: ""
 url_project: ""
-url_slides: "UEA_Nov2016.pdf"
+url_slides: "https://drive.google.com/file/d/1AI6dtOhTGyjIxtgY1qPQd2lhth4oSNpe/view?usp=sharing"
 url_source: ""
 url_video: ""
 ---

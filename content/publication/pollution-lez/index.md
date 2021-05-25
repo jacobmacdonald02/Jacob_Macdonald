@@ -39,9 +39,9 @@ url_dataset: ""
 url_pdf: "https://ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/resource-econ-dam/documents/research/sured/sured-2020/Urban%20Transport%20Initiatives%20and%20Pollution%20Patterns_Comparing%20Low%20Emission%20Zones%20and.pdf"
 url_poster: ""
 url_project: ""
-url_slides: "SURED 2020.pdf"
+url_slides: "https://drive.google.com/file/d/1M9H33XSl9scBHbClRqhW476n68nT4UKL/view?usp=sharing"
 url_source: ""
 url_video: ""
 ---
 
-*Preliminary draft. Please do not cite without authors permission.*
+*Preliminary draft. Please do not cite without author's permission.*

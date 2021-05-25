@@ -35,7 +35,7 @@ url_dataset: ""
 url_pdf: "https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AERNAVIII&paper_id=95"
 url_poster: ""
 url_project: ""
-url_slides: "AERNA_Sep2018.pdf"
+url_slides: "https://drive.google.com/file/d/1sgxEEO2OnVLeB-oSF4HesVntEmS-vnkx/view?usp=sharing"
 url_source: ""
 url_video: ""
 ---
