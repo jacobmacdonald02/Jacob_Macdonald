@@ -1,0 +1,38 @@
+# Theme metadata
+name = "Custom"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "#F3E0DC"
+
+# Menu
+menu_primary = "#D4A59A"
+menu_text = "#BC4639"
+menu_text_active = "#5C2018"
+menu_title = "#5C2018"
+
+# Links
+link = "#BC4639"
+link_hover = "#5C2018"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "#F3E0DC"
+home_section_even = "#D4A59A"
+
+[dark]
+  # Menu
+  menu_primary = "#950740"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#4E4E50"
+  menu_title = "#4E4E50"
+
+  # Backgrounds
+  background = "#1A1A1D"
+  home_section_odd = "#1A1A1D"
+  home_section_even = "#4E4E50"
+  
+  link = "#C3073F"
+  link_hover = "#950740"
