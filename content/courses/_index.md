@@ -14,11 +14,12 @@ The first half of this session showcases the life cycle of an open data research
 
 [Slides Available Here](https://drive.google.com/file/d/1IAOEjmCphjMuHsU6n2VamEgAggG5tFHi/view?usp=sharing)
 
-The second half of the session is a demonstration and online tutorial which runs through an application of open research for the study of employment centres across England. Source materials, code and data are available for those with an interest in following along simultaneously or after the session. For those who are interested in following along in the demonstration an online a Github link will be shared which includes the code, data and walkthrough tutorial.
+The second half of the session is a demonstration and online tutorial which runs through an application of open research for the study of employment centres across England. Source materials, code and data are available for those with an interest in following along simultaneously or after the session. For those who are interested in following along in the demonstration an online a [Github repository](https://github.com/jacobmacdonald02/OpenResearchWeek_2021) will be shared which includes the code, data and walkthrough tutorial.
 
 [*Online Recording*](https://www.youtube.com/watch?v=AwGaEZh4KJo)
 
 
+&nbsp  
 
 
 ## [**Business Economics**](https://jacobmacdonald024.wixsite.com/jacobmacdonald/business-economics-2563)
@@ -27,6 +28,7 @@ _Course Instructor: August 2019_
 Foundations of business economics concepts from market structures, firm production, costs, and firm optimization strategies.
 
 
+&nbsp  
 
 
 ## [**Urban-Environmental Spatial Modelling**](https://jacobmacdonald024.wixsite.com/jacobmacdonald/advanced-spatial-modelling)
@@ -35,6 +37,7 @@ _Module Instructor: January 22 - 29, 2020_
 Module for the Summer School in Spatial Analysis, Land Use and the Environment with a focus on practical applications of leveraging and using geospatial data in the context of valuing urban environmental amenities. The module is part of the joint collaboration between the Universidad del Pacifico (Lima, Peru) and the Nova SBE Environmental Economics Knowledge Center (Lisbon, Portugal).
 
 
+&nbsp  
 
 
 ## **Intermediate Microeconomic Theory**
@@ -43,6 +46,7 @@ _Teaching Assistant: Spring 2016; Fall 2017; Fall 2018_
 Intermediate economic modelling with a focus on consumer theory, producer theory and market structures.
 
 
+&nbsp  
 
 
 ## **Advanced Microeconomic Theory**
