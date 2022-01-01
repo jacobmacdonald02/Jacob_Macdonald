@@ -8,7 +8,7 @@ is_light = true
 primary = "#F3E0DC"
 
 # Menu
-menu_primary = "#D4A59A"
+menu_primary = "#f09884"
 menu_text = "#BC4639"
 menu_text_active = "#5C2018"
 menu_title = "#5C2018"
