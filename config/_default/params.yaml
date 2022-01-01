@@ -21,18 +21,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 
-email: Jacob.Macdonald@liverpool.ac.uk
+email: j.macdonald@sheffield.ac.uk
 phone: 
 address:
   street: 
-  city: Liverpool
+  city: Sheffield
   region: 
-  postcode: 'L69 7ZX'
+  postcode: 'S10 2TN'
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '53.40164'
-  longitude: '-2.96468'
+  latitude: '53.38335'
+  longitude: '-1.48874'
 directions: 
 office_hours:
 appointment_url: 
