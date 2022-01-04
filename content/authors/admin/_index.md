@@ -16,7 +16,7 @@ highlight_name: false
 interests:
 - Urban & environmental data and modelling
 - Open/ accessible data and research
-- Big, novel, data sources
+- Big, novel, data sources and visualizations 
 organizations:
 - name: University of Sheffield - Department of Urban Studies and Planning
   url: https://www.sheffield.ac.uk/usp
@@ -43,11 +43,11 @@ superuser: true
 title: Jacob L. Macdonald
 ---
 
-Born in St. John's, Newfoundland (Canada), I completed my bachelors degree in Economics and Statistics at [Memorial University of Newfoundland & Labrador](https://www.mun.ca/). I then moved to Lisbon, Portugal, for a Masters of Research and PhD in Economics and Finance at the [Nova School of Business and Economics](https://www2.novasbe.unl.pt/en/).
+Born in St. John's, Newfoundland and Labrador (Canada), I completed my bachelors degree in Economics and Statistics at [Memorial University of Newfoundland & Labrador](https://www.mun.ca/). I then moved to Lisbon, Portugal, for a Masters of Research and PhD in Economics and Finance at the [Nova School of Business and Economics](https://www2.novasbe.unl.pt/en/) with a focus on urban economics and spatial data science.
 
 I am currently a Lecturer in GIS and Spatial Analysis with the University of Sheffield - [Department of Urban Studies and Planning](https://www.sheffield.ac.uk/usp), and was previously a Geographic Data Science Research Fellow with the [Consumer Data Research Lab](https://www.cdrc.ac.uk/) within the University of Liverpool's [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/).
 
-My research focuses on urban data, spatial statistics and in particular leveraging big, novel data sources for studies of urban environmental and economic processes. I'm interested especially in the interplay and spill-overs of urban amenities, the built environment and neighbourhood dynamics. I'm a broad champion of open data/ software, open science, and secondary data sources.
+My research focuses on urban data, spatial statistics and in particular leveraging big, novel data sources for studies of urban environmental and economic processes. I'm interested especially in the interplay and spill-overs of urban amenities, the built environment and neighbourhood dynamics. I'm a broad champion of open data/ software, open science, and making use of secondary, geographic, data sources.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JacobMacdonald_CV.pdf" "newtab" >}}C.V.{{< /staticref >}}
